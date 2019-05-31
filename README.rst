@@ -1,7 +1,6 @@
-Expectation Reflection for Heart Disease Prediction
+Expectation Reflection for Heart Disease Diagnosis
 ======================================================
 
-Data sets
------------------------------
+We apply our method, Expectation Reflection to predict where patient having heart disease or not based on input features. We also compare the performance of our method with other existing mechine learning methods, including Logistic Regression, Naive Bayes, Dicision Tree, Random Forest, k-nearest neighbors, and Support Vector Machines.
 
 
